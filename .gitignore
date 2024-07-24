@@ -1,0 +1,4 @@
+node_modules/
+.cache
+.gitignore.swp
+.DS_Store
